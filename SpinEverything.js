@@ -6,7 +6,7 @@ function getRandomElement(arr) {
 }
 
 function getRandomDuration() {
-  return Math.floor(Math.random() * 10) + 's';
+  return (Math.floor(Math.random() * 10) - 1) + 's';
 }
 
 function getRandomTimingFunction() {
