@@ -1,2 +1,2 @@
 # How to use
-These scripts are meant to be run in a browser (tested on chrome), and you can run them once just by pasting them into the console using the inspect tool, or permanently by creating a chrome extension. I recommend using [Tampermonkey](https://www.tampermonkey.net/) because it's super easy. Remember to set the `@match` parameter to `*://*/*` to target all websites, if you want to do that. The names of the files are pretty self-explanatory, but assuming I remembered to, I added comments explaining what they do.
+Run the .xpi files as you normally would. To extract the files (to run in Chrome, or for whatever other reason), just download it and rename .xpi to .zip and unzip it.
