@@ -1,3 +1,5 @@
+// Makes misspellings and grammar errors
+
 const mispellings = [
   ['ad', 'add'],
   ['and', 'nad'],
